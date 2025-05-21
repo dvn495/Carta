@@ -40,7 +40,7 @@ function App() {
         
         <Hero />
         <Timeline />
-        <MovementsSection />
+        {/* <MovementsSection /> */}
         <UniverseSection />
         <MultilingualSection />
         <ComplementarySection />

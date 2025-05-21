@@ -10,11 +10,11 @@ const Footer: React.FC = () => {
         </div>
         
         <p className="mb-2 text-blue-200">
-          Hecho con amor para celebrar nuestros 427 días juntos
+          Hecho con amor para celebrar nuestros 427 días juntos amazing
         </p>
         
         <p className="text-sm text-blue-300">
-          &copy; {new Date().getFullYear()} - Para ti, con todo mi corazón
+          &copy; {new Date().getFullYear()} - Para ti, mi vida castrosita
         </p>
       </div>
     </footer>
